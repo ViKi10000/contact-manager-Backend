@@ -22,7 +22,7 @@ A RESTful API for managing contacts with user authentication, built with Node.js
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ViKi10000/contact-manager-Backend.git
 cd contact-manager/backend
 ```
 
