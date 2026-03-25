@@ -87,31 +87,6 @@ Start the server in development mode:
 npm run dev
 ```
 
-For production:
-
-```bash
-npm start
-```
-
-## API Authentication
-
-All contact endpoints require authentication. Include the JWT token in the Authorization header:
-
-```
-Authorization: Bearer <your_jwt_token>
-```
-
-## Error Handling
-
-The API implements centralized error handling through middleware. Common HTTP status codes used:
-
-- 200: Success
-- 201: Created
-- 400: Bad Request
-- 401: Unauthorized
-- 403: Forbidden
-- 404: Not Found
-- 500: Internal Server Error
 
 ## Security Features
 
